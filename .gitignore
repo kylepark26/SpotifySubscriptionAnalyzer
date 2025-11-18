@@ -51,3 +51,6 @@ ENV/
 
 # Environment variables
 .env
+
+# Random
+.claude
